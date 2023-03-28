@@ -1,5 +1,5 @@
 <h1>Projeto Simples de Desafio do Bootcamp Java da Dio</h1><p>
-Este projeto foi criado como parte do desafio Java e permite ao usuário escolher somar ou subtrair dois números. Para implementar essa funcionalidade, foram utilizados os padrões Singleton Lazy, Strategy e Facade.
+Este projeto foi criado com java puro como parte do desafio Java e permite ao usuário escolher somar ou subtrair dois números. Para implementar essa funcionalidade, foram utilizados os padrões Singleton Lazy, Strategy e Facade.
 
 <h2>Padrões de Projeto Utilizados:</h2><p>
 
